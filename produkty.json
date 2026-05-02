@@ -1,0 +1,6 @@
+[
+    { "id": 1, "nazwa": "Smartfon Pro", "cena": 2500 },
+    { "id": 2, "nazwa": "Słuchawki BT", "cena": 450 },
+    { "id": 3, "nazwa": "Ładowarka Szybka", "cena": 120 },
+    { "id": 4, "nazwa": "Etui Silikonowe", "cena": 50 }
+]
